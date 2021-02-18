@@ -1,0 +1,10 @@
+.push {
+  margin-left: auto;
+}
+mat-card {
+  display: flex;
+}
+.logo {
+  font-family: "Truculenta", sans-serif;
+  font-size: 140%;
+}
